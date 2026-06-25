@@ -2,13 +2,13 @@
 An AI system that uses smart cameras (computer vision) to automatically spot product defects on factory lines, making sure everything is made perfectly without relying only on human eyes.
 
 Week 1 — Python Basics
-I set up my Python development environment on Google Colab and Kaggle to practice core syntax, including variables, loops, and functions. After running my first scripts, I studied foundational machine learning theory to prepare for the upcoming weeks.
+I got my coding environment ready on Google Colab and Kaggle to practice the basics of Python, like loops and functions. I wrote my first scripts and also read up on some basic machine learning theory.
 
 Week 2 — Machine Learning Basics
-This week focused on foundational machine learning concepts, progressing from core theory up to ensemble methods like Bagging. I learned data manipulation using Pandas and built a solid intuition for how ML models are trained and evaluated.
+This week was all about getting a feel for machine learning. I learned how to handle data using the Pandas library and studied different models up to bagging, figuring out how they actually train and get tested.
 
 Week 3 — Deep Learning & CNNs
-I dived into Deep Learning fundamentals and studied how Convolutional Neural Networks work. Through a structured video series, I learned why CNNs are perfectly suited for image-based tasks, directly applying to the project’s visual inspection side.
+I jumped into deep learning and watched a video series to understand how Convolutional Neural Networks work. Since this project is about visual inspection, learning how these networks handle images was super important for the scanning part.
 
 Week 4 — Intro to LLMs
-I explored Large Language Models, covering their training processes and practical applications. Finally, I began connecting these LLM concepts to the project's multi-modal goals, combining both vision and language features for industrial quality assurance tasks.
+I looked into Large Language Models to see how they are trained and used. Then, I started connecting the dots between these text models and the vision stuff from last week to build the final multi-modal quality check system.
