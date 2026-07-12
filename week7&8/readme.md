@@ -14,6 +14,9 @@ If you want to run this project on your own machine, follow these steps:
 First, install Ollama from their website. Then, open your terminal and run this command:
 ollama run llama3.2
 
+https://drive.google.com/file/d/1N4iHh9SNt_yYRp2zmBhB55q4VtQye2FI/view?usp=sharing
+Since the best.pt file is too large to upload to github, I've added it to a drive link and it is to be with the app.py file in order to streamlit to run localhost.
+
 This tells Ollama to download the Llama 3.2 model to your computer. It is a few gigabytes, so let it run. Once it finishes and opens a chat prompt, just type /bye to exit. The model is now ready in the background.
 
 2. Install the required Python packages
