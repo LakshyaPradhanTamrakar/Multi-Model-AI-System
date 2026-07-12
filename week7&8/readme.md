@@ -28,7 +28,4 @@ python -m streamlit run app.py
 
 I recommend using the "python -m" prefix here because it helps bypass common Windows PATH errors. 
 
-Troubleshooting Note: If the app crashes with a "WinError 126" regarding PyTorch or missing DLL files when you try to run it, it means your computer is missing some background graphics files. You can easily fix this by forcing Python to install the CPU-only version of PyTorch by running:
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu --force-reinstall
-
 Once the server starts, it will open a new tab in your browser where you can upload steel images and test the whole pipeline.
